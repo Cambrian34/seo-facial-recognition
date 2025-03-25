@@ -1,0 +1,6 @@
+# Python 3.x is required
+opencv-python
+numpy
+selenium
+DeepFace
+MTCNN
