@@ -19,7 +19,7 @@ This project is focused on implementing facial recognition technology for SEO pu
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/Cambrian34/seo-facial-recognition.git
     ```
 2. Install the required dependencies:
     ```
